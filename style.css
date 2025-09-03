@@ -15,10 +15,10 @@ body {
 }
 h1 {
     color: #2d7cff;
-    margin-bottom: 24px;
+    margin: 30px;
 }
 p {
-    margin-bottom: 20px;
+    margin: 30px;
     font-size: 1.1em;
 }
 video {
