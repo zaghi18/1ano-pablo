@@ -14,10 +14,11 @@ body {
     text-align: center;
 }
 h1 {
-    color: #2d7cff;
+    color: #c3c6caff;
     margin: 30px;
 }
 p {
+    color: #c3c6caff;
     margin: 30px;
     font-size: 1.1em;
 }
